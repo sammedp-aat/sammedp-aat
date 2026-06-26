@@ -1,10 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=280&section=header&text=Sam%20Patil&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20AWS&descSize=18&descAlignY=52">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:1f6feb,100:ffffff&height=280&section=header&text=Sam%20Patil&fontSize=80&fontColor=0d1117&animation=twinkling&fontAlignY=28&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20AWS&descSize=18&descAlignY=52" alt="header">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=280&section=header&text=Sam%20Patil&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Django%20Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20DRF%20%E2%80%A2%20PostgreSQL&descSize=18&descAlignY=52">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:1f6feb,100:ffffff&height=280&section=header&text=Sam%20Patil&fontSize=80&fontColor=0d1117&animation=twinkling&fontAlignY=28&desc=Django%20Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20DRF%20%E2%80%A2%20PostgreSQL&descSize=18&descAlignY=52" alt="header">
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=1F6FEB&center=true&vCenter=true&width=640&lines=Backend+Developer+%7C+Python+%7C+Django+%7C+DRF;PostgreSQL+%7C+AWS+%7C+Docker+%7C+Redis;JavaScript+%7C+React+%7C+Node.js+%7C+TypeScript;Clean+Code+%C2%B7+Scalable+APIs+%C2%B7+TDD" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1200&color=1F6FEB&center=true&vCenter=true&width=640&lines=Django+%7C+DRF+%7C+Python+Backend+Developer;REST+APIs+%C2%B7+PostgreSQL+%C2%B7+AWS+%C2%B7+Redis;JWT+Auth+%C2%B7+RBAC+%C2%B7+Celery+%C2%B7+Docker;Building+Scalable+%26+Clean+Backend+Systems" alt="typing"/>
 </p>
 
 <br/>
@@ -27,15 +27,15 @@
   <tr>
     <td width="65%">
       <h3>👨‍💻 About Me</h3>
-      Backend developer passionate about building <b>scalable APIs</b>, <b>clean architectures</b>, and <b>robust backend systems</b>.
+      <b>Django Backend Developer</b> specializing in building <b>scalable REST APIs</b>, <b>clean architectures</b>, and <b>robust backend systems</b>.
       <br/><br/>
-      🐍 <b>Python & Django</b> — production-grade web applications<br/>
-      🗄️ <b>PostgreSQL</b> — data modeling, queries, migrations<br/>
-      ☁️ <b>AWS</b> — S3, deployment, cloud infrastructure<br/>
-      🔐 <b>Auth</b> — JWT, OAuth, RBAC, OTP-based login<br/>
-      📊 <b>API Design</b> — RESTful with Swagger/OpenAPI docs<br/>
-      🐳 <b>Docker & DevOps</b> — CI/CD, containerization<br/>
-      🧪 <b>TDD</b> — pytest, unittest, quality-first
+      🐍 <b>Django & DRF</b> — my core stack for production-grade web apps<br/>
+      🗄️ <b>PostgreSQL</b> — data modeling, query optimization, migrations<br/>
+      🔐 <b>Auth Systems</b> — JWT, SimpleJWT, RBAC, OTP-based login<br/>
+      📊 <b>API Design</b> — RESTful endpoints with Swagger/OpenAPI docs<br/>
+      ☁️ <b>AWS</b> — S3 storage, deployment, cloud infrastructure<br/>
+      🐳 <b>Docker</b> — containerization and CI/CD pipelines<br/>
+      🧪 <b>TDD</b> — pytest, unittest, quality-first development
     </td>
     <td width="35%" align="center">
       <img src="https://media.giphy.com/media/bGgscBmXOv1GqgFFfn/giphy.gif" width="240" alt="coding"/>
@@ -78,6 +78,15 @@
 <br/>
 
 <div align="center">
+
+**⚡ Django Ecosystem (Primary)** &ensp;
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/SimpleJWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django_ORM-092E20?style=flat-square&logo=django&logoColor=white"/>
+
+<br/>
 
 **Languages** &ensp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>

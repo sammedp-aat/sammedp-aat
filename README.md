@@ -223,13 +223,7 @@
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sammedp-aat/sammedp-aat/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sammedp-aat/sammedp-aat/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/sammedp-aat/sammedp-aat/output/github-contribution-grid-snake.svg" width="95%" />
-  </picture>
-</div>
+<!-- Snake animation requires GitHub Actions — enable in repo Settings > Actions if desired -->
 
 <br/>
 

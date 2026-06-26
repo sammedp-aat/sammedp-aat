@@ -7,24 +7,21 @@
 
 <div align="center">
   <a href="https://github.com/sammedp-aat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B%2C+I'm+Sam;Backend+Lead+Developer+%40+AimedAt+Solutions;Python+%C2%B7+Django+%C2%B7+DRF;Building+Health-Tech+for+Tomorrow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B%2C+I'm+Sam;Python+%C2%B7+Django+%C2%B7+DRF;REST+APIs+%C2%B7+PostgreSQL+%C2%B7+AWS;Clean+Code+%C2%B7+Scalable+Architecture" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
+  <a href="https://github.com/sammedp-aat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://www.linkedin.com/in/sammed-patil-68517515a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sammed.patil@aimedatsolutions.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.aimedatsolutions.com/">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://github.com/sammedp-aat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://leetcode.com/u/sammedp_aat/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=sammedp-aat&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -41,12 +38,14 @@
     <td width="60%">
       <h2>🧑‍💻 About Me</h2>
       <p>
-        💼 <b>Backend Lead Developer</b> at <b>AimedAt Solutions Pvt Ltd</b><br/>
-        📍 <b>Bangalore, India</b><br/>
-        🏥 Building <b>Health Management Platforms</b> with Django & DRF<br/>
-        🤖 Currently exploring <b>AI/ML & LLMs</b> for healthcare<br/>
-        🎯 Obsessed with <b>clean architecture</b> & <b>scalable APIs</b><br/>
-        ☕ Coffee → Code → Deploy → Repeat
+        I'm a backend developer who loves building <b>scalable APIs</b> and <b>clean architectures</b>.<br/><br/>
+        🐍 <b>Python</b> is my primary language — Django & DRF are my daily drivers.<br/>
+        🗄️ I work with <b>PostgreSQL</b>, optimize queries, and design efficient data models.<br/>
+        ☁️ Experienced with <b>AWS S3</b> for cloud storage and deployments.<br/>
+        🔐 I implement <b>JWT authentication</b>, role-based access, and secure APIs.<br/>
+        📊 I build <b>RESTful APIs</b> with full Swagger/OpenAPI documentation.<br/>
+        🧪 I write <b>unit tests</b> and believe in test-driven development.<br/>
+        🎯 Focus: clean code, performance, maintainability.
       </p>
     </td>
     <td width="40%">
@@ -100,107 +99,23 @@
 
 <br/>
 
-<h2 align="center">🛠️ Technology Arsenal</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <br/>
 
 <div align="center">
 
-<table>
-  <tr>
-    <th colspan="4" align="center"><h3>🧠 Languages</h3></th>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />
-      <br/>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
-      <br/>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" />
-      <br/>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" />
-      <br/>HTML/CSS
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th colspan="4" align="center"><h3>🌐 Frameworks & Libraries</h3></th>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" alt="Django" />
-      <br/>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" />
-      <br/>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
-      <br/>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap" />
-      <br/>Bootstrap
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th colspan="4" align="center"><h3>🗄️ Databases & Cloud</h3></th>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL" />
-      <br/>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" />
-      <br/>SQLite
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS" />
-      <br/>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" />
-      <br/>Redis
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th colspan="4" align="center"><h3>🔧 Tools & DevOps</h3></th>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
-      <br/>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />
-      <br/>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" />
-      <br/>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" />
-      <br/>Linux
-    </td>
-  </tr>
-</table>
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, JavaScript, TypeScript, HTML/CSS, SQL |
+| **Backend** | Django, Django REST Framework, FastAPI |
+| **Frontend** | React, Bootstrap, jQuery |
+| **Databases** | PostgreSQL, SQLite, Redis |
+| **Cloud & DevOps** | AWS S3, Docker, Git, GitHub Actions |
+| **Auth & Security** | JWT (SimpleJWT), OAuth, Role-Based Access |
+| **API Tools** | Swagger/OpenAPI, Postman, REST |
+| **OS & Tools** | Linux, VS Code, PyCharm |
+| **Other** | Unit Testing (unittest/pytest), Git Workflow |
 
 </div>
 
@@ -210,7 +125,7 @@
 
 <br/>
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">📈 Contribution Graph</h2>
 
 <br/>
 
@@ -223,22 +138,47 @@
 
 <br/>
 
-<!-- Snake animation requires GitHub Actions — enable in repo Settings > Actions if desired -->
-
-<br/>
-
 ---
 
 <br/>
 
-<h2 align="center">📌 Featured Projects</h2>
+<h2 align="center">📌 What I Build</h2>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/aimedat-solutions/Health-Management-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aimedat-solutions&repo=Health-Management-Backend&theme=github_dark&hide_border=true&border_radius=12&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&description_lines_count=2" width="45%" alt="Health Management Backend" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <b>🔐 Authentication Systems</b><br/>
+        JWT · OTP · Role-Based Access
+      </td>
+      <td align="center">
+        <b>📋 REST APIs</b><br/>
+        CRUD · Filtering · Pagination · Search
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>🗄️ Database Design</b><br/>
+        PostgreSQL · Models · Migrations · Query Optimization
+      </td>
+      <td align="center">
+        <b>☁️ Cloud Storage</b><br/>
+        AWS S3 · File Uploads · Media Management
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>📊 API Documentation</b><br/>
+        Swagger UI · ReDoc · OpenAPI Schema
+      </td>
+      <td align="center">
+        <b>🧪 Testing</b><br/>
+        Unit Tests · Test Coverage · TDD
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
